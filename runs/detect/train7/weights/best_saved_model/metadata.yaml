@@ -1,0 +1,30 @@
+description: Ultralytics best model trained on data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-03-07T20:49:31.629909'
+version: 8.1.19
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: call
+  1: dislike
+  2: fist
+  3: four
+  4: like
+  5: mute
+  6: ok
+  7: one
+  8: palm
+  9: peace
+  10: peace_inverted
+  11: rock
+  12: stop
+  13: stop_inverted
+  14: three
+  15: three2
+  16: two_up
+  17: two_up_inverted
